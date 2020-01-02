@@ -1,4 +1,3 @@
-# Today I Learned
+# Git
 
-오늘 배운 것을 정리합시다.
-- [Git](https://github.com/nanggo/TIL/tree/master/git)
+- [untracked 파일/폴더 삭제](https://github.com/nanggo/TIL/blob/master/git/2020-01-02_remove_untracked_files.md)
