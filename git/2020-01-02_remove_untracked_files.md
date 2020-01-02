@@ -4,6 +4,6 @@ ember-typescript를 설치하면서 생성된 폴더 및 파일이었다. 현재
 
 삭제를 하기 전에, 남겨둘 작업들은 stash에 저장해둔 후 진행하였다.
 
->untracked된 file들 삭제: `git clean -f`
+>untracked된 file들 삭제: `git clean -f` <br>
 >디렉토리까지 함께 삭제: `git clean -fd`
 
