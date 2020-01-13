@@ -1,4 +1,4 @@
-# Remote 브랜치에서 삭제된 브랜치 업데이트
+# Remote 브랜치에서 삭제된 브랜치 참조 제거
 
 작업을 하다가 local 개인 브랜치를 실수로 remote repository에 push를 하게 되었다.
 remote에 올려지길 원하지 않았기에 삭제를 했는데, 로컬에서는 remote 브랜치가 삭제된 것을 인지하지 못하고 있었다.
