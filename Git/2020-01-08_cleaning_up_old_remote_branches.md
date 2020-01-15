@@ -5,7 +5,7 @@ remote에 올려지길 원하지 않았기에 삭제를 했는데, 로컬에서�
 
 ![dangling](https://user-images.githubusercontent.com/16912219/71945581-90e1cb80-320a-11ea-86c0-bac6ecfa2694.png)
 
-remote 브랜치와 모든 브랜치(remote/local) 확인해보았다.
+remote 브랜치와 모든 브랜치(remote/local) 확인해보았다.  
 ![git remote branch](https://user-images.githubusercontent.com/16912219/71945578-90493500-320a-11ea-8e8e-cc0070dc1947.png)
 ![all branch](https://user-images.githubusercontent.com/16912219/71945580-90e1cb80-320a-11ea-886a-3c0a01849519.png)
 
