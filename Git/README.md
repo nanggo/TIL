@@ -5,3 +5,4 @@
 - [Git 폴더 이름 변경](./2020-01-15_git_rename_folder.md)
 - [Gitignore 적용하기](./2020-02-04_apply_gitignore.md)
 - [Remote branch 삭제하기](./2020-02-05_remove_remote_branch.md)
+- [Fork된 repository sync하기](./2020-02-07_syncing_forked_repository.md)
