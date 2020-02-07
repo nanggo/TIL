@@ -26,7 +26,7 @@ $ git remote -v
 ```
 
 Upstream repository에서 fetch해와서 upstream/master에 저장해둔다.
-(fetch와 pull은 둘 다 변경된 것을 가져오지만, fetch는 갖고 오기만 하고 pull은 merge까지 해준다. [fetch와 pull의 차이점](https://stackoverflow.com/a/292359)은 여기를 확인한다.)
+(fetch와 pull은 둘 다 변경된 것을 가져오지만, fetch는 갖고 오기만 하고 pull은 merge까지 해준다. - [fetch와 pull의 차이점](https://stackoverflow.com/a/292359))
 ```
 $ git fetch upstream
 > remote: Counting objects: 75, done.
