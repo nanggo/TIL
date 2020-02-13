@@ -7,3 +7,4 @@
 - [Remote branch 삭제하기](./2020-02-05_remove_remote_branch.md)
 - [Fork된 repository sync하기](./2020-02-07_syncing_forked_repository.md)
 - [Fatal: refusing to merge unrelated histories 오류 해결](./2020-02-07_resolve_unrelated_histories_error.md)
+- [특정 태그 Clone하기](./2020-02-13_cloning_specific_tag.md)
