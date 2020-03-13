@@ -9,3 +9,4 @@
 - [Fatal: refusing to merge unrelated histories 오류 해결](./2020-02-07_resolve_unrelated_histories_error.md)
 - [특정 태그 Clone하기](./2020-02-13_cloning_specific_tag.md)
 - [태그 Push 하기](./2020-02-28_how_to_push_tags.md)
+- [태그 삭제하기](./2020-03-13_remove_tag.md)
